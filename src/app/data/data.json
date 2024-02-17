@@ -1,0 +1,86 @@
+[{
+        "nombre": "HTML5",
+        "img": "assets/img/html5.png",
+        "entorno": "FrontEnd"
+    },
+    {
+        "nombre": "CSS3",
+        "img": "assets/img/css3.png",
+        "entorno": "FrontEnd"
+    },
+    {
+        "nombre": "JavaScript",
+        "img": "assets/img/javascript.png",
+        "entorno": "FrontEnd"
+    },
+    {
+        "nombre": "Angular",
+        "img": "assets/img/angular.png",
+        "entorno": "FrontEnd"
+    },
+    {
+        "nombre": "Firebase",
+        "img": "assets/img/firebase.png",
+        "entorno": "BackEnd"
+    },
+    {
+        "nombre": "Ionic",
+        "img": "assets/img/ionic.png",
+        "entorno": "FrontEnd"
+    },
+    {
+        "nombre": "MongDb",
+        "img": "assets/img/mongodb.png",
+        "entorno": "BackEnd"
+    },
+    {
+        "nombre": "MySql",
+        "img": "assets/img/mysql.png",
+        "entorno": "BackEnd"
+    },
+    {
+        "nombre": "Node.js",
+        "img": "assets/img/nodejs.png",
+        "entorno": "BackEnd"
+    },
+    {
+        "nombre": "Php",
+        "img": "assets/img/php.png",
+        "entorno": "BackEnd"
+    },
+    {
+        "nombre": "React.js",
+        "img": "assets/img/reactjs.png",
+        "entorno": "FrontEnd"
+    },
+    {
+        "nombre": "SASS",
+        "img": "assets/img/sass.png",
+        "entorno": "FrontEnd"
+    },
+    {
+        "nombre": "BootStrap",
+        "img": "assets/img/bootstrap.png",
+        "entorno": "FrontEnd"
+    },
+    {
+        "nombre": "jQuery",
+        "img": "assets/img/jquery.png",
+        "entorno": "FrontEnd"
+    },
+    {
+        "nombre": "Java",
+        "img": "assets/img/java.png",
+        "entorno": "BackEnd"
+    },
+    {
+        "nombre": "Vue.js",
+        "img": "assets/img/vue.png",
+        "entorno": "FrontEnd"
+    },
+    {
+        "nombre": "C++",
+        "img": "assets/img/c++.png",
+        "entorno": "BackEnd"
+    }
+]

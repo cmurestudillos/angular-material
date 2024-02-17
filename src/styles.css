@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "@angular/material/prebuilt-themes/indigo-pink.css";
+@media (max-width: 1580px) {
+    .example-large-box {
+        margin: 25px !important;
+    }
+}
+
+@media (max-width: 443px) {
+    .example-large-box {
+        margin: 14px !important;
+    }
+}
+
+@media (max-width: 400px) {
+    .example-large-box {
+        margin: 5px !important;
+    }
+}

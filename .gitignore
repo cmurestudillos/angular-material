@@ -1,0 +1,41 @@
+# Node.js
+node_modules/
+
+# Build output
+/dist/
+/dist-server/
+/dist-test/
+
+# Environment variables
+.env
+.env.prod
+.env.prod.local
+.env.test
+.env.test.local
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Compiled output
+*.js
+*.js.map
+*.d.ts
+
+# Testing artifacts
+coverage/
+.nyc_output/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+.angular
+.vercel

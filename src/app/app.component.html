@@ -1,0 +1,32 @@
+<header>
+  <mat-toolbar>
+      <img src="../assets/img/angular.png">Angular Material</mat-toolbar>
+</header>
+
+<mat-tab-group dynamicHeight>
+  <mat-tab label="FrontEnd">
+      <div class="example-large-box mat-elevation-z4" *ngFor="let item of lenguajesFront">
+          <button mat-button (click)="openSnackBar('Has seleccionado: ', item.nombre)">
+            <img [src]="item.img" [alt]="item.nombre" [title]="item.nombre">
+          </button>
+      </div>
+  </mat-tab>
+  <mat-tab label="BackEnd">
+      <div class="example-large-box mat-elevation-z4" *ngFor="let item of lenguajesBack">
+          <button mat-button (click)="openSnackBar('Has seleccionado: ', item.nombre)">
+            <img [src]="item.img" [alt]="item.nombre" [title]="item.nombre">
+        </button>
+      </div>
+  </mat-tab>
+</mat-tab-group>
+
+<footer>
+  <mat-toolbar>
+      <span>Copyright &copy; - {{year}}</span>
+
+      <!-- This fills the remaining space of the current row -->
+      <span class="example-fill-remaining-space"></span>
+
+      <span><i>Designed by:</i> Carlos Mur</span>
+  </mat-toolbar>
+</footer>
